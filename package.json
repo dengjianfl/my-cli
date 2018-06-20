@@ -1,0 +1,19 @@
+{
+  "name": "test-cli",
+  "version": "1.0.0",
+  "description": "cli test haha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengjianfl/my-cli.git"
+  },
+  "author": "dj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengjianfl/my-cli/issues"
+  },
+  "homepage": "https://github.com/dengjianfl/my-cli#readme"
+}
